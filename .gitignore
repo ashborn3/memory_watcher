@@ -1,0 +1,31 @@
+# Ignore build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.cmd
+*.mod.cmd
+.tmp_versions
+
+# Ignore temporary files and directories
+*.tmp
+*.bak
+*.swp
+*.swo
+*.d
+*.dwo
+*.lst
+*.su
+
+# Ignore kernel build directories
+/Module.symvers
+/modules.order
+
+# Ignore editor/IDE specific files
+*~
+.*.sw[a-z]
+.vscode/
+.idea/
+
