@@ -1,7 +1,5 @@
 # Memory Watcher
 
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
-
 ## Description
 
 Memory Watcher is a Linux kernel module designed for monitoring memory access of a specific process. It allows users to track and log memory access patterns of a process identified by its PID, providing insights into the process's behavior at the memory level.
